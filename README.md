@@ -7,6 +7,8 @@ The Odin Project is the free course for learning to become a fullstack web devel
 And in this lesson, I have to create an entire web page using CSS skills like FlexBox.
 This is not responsive page, but even so, I am confident that I can show to you my CSS fundamental skills.
 
+<img src="./screen.png" alt="screen image"/>
+
 # Demo Site URL(Not Responsive)
 
 https://hiros-dev.github.io/Landing-Page/
@@ -44,3 +46,9 @@ And, happy coding!!!
 I am living in Japan. And I can not use English perfectly.
 So, there are may be some mistakes in this texts.
 If you do not understand my words, please just ignore or tell me my mistakes. 
+
+## Photo in this git repository
+
+I used the images from the Pixabey. It is royal free.
+(Hero section image: https://www.pexels.com/photo/smiling-woman-looking-upright-standing-against-yellow-wall-1536619/)
+(Testimonial section image: https://www.pexels.com/photo/fashion-sunglasses-woman-girl-46244/)
